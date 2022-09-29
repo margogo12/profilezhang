@@ -1,0 +1,103 @@
+body{
+  margin:0;
+  text-align: center;
+}
+h1{
+  font-size: 5.625rem; < ! ╌16px = 100% = 1em; 90px = 5.625em ╌>
+  margin-top: 30px;
+  color: #D0B8A8;
+  line-height: 2;
+}
+h2{
+    font-size: 2.5rem;
+    color: #D0B8A8;
+    font-weight: normal;
+}
+h3{
+  color:  #DEB6AB;
+}
+hr{
+  border: dotted #DFD3C3 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+.heading{
+  background-color: #FFF5E4;
+  position:relative;
+  padding-top: 120px;
+}
+
+.top-cloud{
+  position: absolute;
+  top:50px;
+  right:300px;
+}
+.bottom-cloud{
+  position: absolute;
+}
+.profilepic{
+  border-radius: 50%;
+}
+.linebreak{
+  font-size: 50px;
+  color: #D8D8D8;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.middle-container{
+font-color: #40514E;
+margin: 100px 0;
+}
+.bottom-container{
+background-color: #FFF5E4;
+ margin-top: 50px;
+ padding: 30px 0 5px;
+ font-color: white;
+  }
+.footer-link{
+  color: #DEB6AB;
+  margin-left: 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #FFD8A9;
+}
+.skill-row{
+  width:50%;
+ margin:100px auto;
+ text-align: left;
+ line-height: 2;
+}
+.bookpic{
+  width: 25%;
+  float:right;
+  padding-left: 30px;
+}
+.copyright{
+  color: #F5C7A9;
+  font-size: 0.75rem;
+}
+.techpic{
+  width: 25%;
+  float:left;
+  padding-right: 30px;
+}
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #b07979;
+  font-size: 20px;
+  bg-start-gradient: ;
+  bg-end-gradient: #3D8361;
+  padding: 10px 20px 10px 20px;
+  border: solid #1f628d 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #fcf8ef;
+  text-decoration: none;
+}
